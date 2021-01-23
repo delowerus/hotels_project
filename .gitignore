@@ -1,0 +1,7 @@
+ # ignore files and folders
+.project
+.classpath
+.idea/
+out/
+*.iml
+*.class
